@@ -2,6 +2,10 @@
 
 A C program that simulates the behavior and configuration of an analog synthesizer using structured data and dynamic memory allocation.
 
+## 📚 Course Context
+
+This project served as my final for the **Fundamentals of UNIX and C course** in **Spring 2024**. It demonstrates the practical use of memory management and struct-based data organization in C, as part of my systems programming coursework.
+
 ## 🔧 Features
 
 - Initializes synthesizer with user-defined model and key count
@@ -21,7 +25,3 @@ A C program that simulates the behavior and configuration of an analog synthesiz
 - `set_synthesiser_settings()` – Sets oscillators and cutoff frequency
 - `display_synthesiser_info()` – Outputs synthesizer data
 - Includes safe memory handling and error checking
-
-## 📚 Context
-
-This project served as my final for the Fundamentals of UNIX and C course in Spring 2024. It demonstrates the practical use of memory management and struct-based data organization in C, as part of my systems programming coursework.
